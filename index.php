@@ -6,7 +6,7 @@
 <?php
 echo " HELLO THIS IS MY FIRST OPENSHIFT APPLICATION (AJAY SHINDE)";
   echo "Hello This is WEBHOOK CREATED BY ME FOR AUTOMATIC TRIGGER thank you";
-   echo "HELLO THIS IS NEW CODE";
+   echo "HELLO THIS IS NEW CODE thank you";
 ?>
 
 </body>
